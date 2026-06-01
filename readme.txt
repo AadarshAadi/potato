@@ -133,16 +133,3 @@ uvicorn main:app --reload
 * Real-time field detection using IoT
 
 ---
-
-## 👨‍💻 Author
-
-**Anurag Mishra**
-
-* Machine Learning & Data Science Enthusiast
-* Focused on real-world problem solving
-
----
-
-## ⭐ If you like this project
-
-Give it a star on GitHub and share it 🚀
